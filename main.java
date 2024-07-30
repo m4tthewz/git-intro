@@ -5,3 +5,4 @@ class Simple{
 }
 
 //this is a comment
+//this is another comment
