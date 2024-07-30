@@ -3,5 +3,3 @@ class Simple{
      System.out.println("Hello Java");  
     }  
 }
-
-//this is a comment
